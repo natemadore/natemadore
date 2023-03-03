@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nathaniel Madore @paraphenaliax
+- 👋 Hi, I’m Nathaniel Madore @natemadore
 - 👀 I’m interested in making the web a safer place.
 - 🌱 I’m currently learning at Southern New Hampshire University
 - 💞️ I’m looking to collaborate on cybersecurity project.
