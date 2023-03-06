@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nathaniel Madore @natemadore
 - 👀 I’m interested in making the web a safer place.
 - 🌱 I’m currently learning at Northeastern University
-- 💞️ I’m looking to collaborate on cybersecurity project.
+- 💞️ I’m looking to collaborate on cybersecurity projects.
 - 📫 Add me on <a href="https://www.linkedin.com/in/nathanielmadore/">LinkedIn</a>. 
 
 <!---
